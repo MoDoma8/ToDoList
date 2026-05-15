@@ -122,6 +122,3 @@ MIT – use it freely, modify it, share it.
 
 *"Clear mind · sharp focus" – Doma ToDoTask*
 
----
-
-Just copy everything above and paste it into your `README.md` file on GitHub. No special formatting needed — it will render properly.
