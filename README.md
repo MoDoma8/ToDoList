@@ -1,6 +1,3 @@
-Here's a clean, ready-to-copy-paste README for your GitHub repository:
-
----
 
 # Doma ToDoTask
 
